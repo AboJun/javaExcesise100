@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://D:/练习/java100实例/java实用编程100(1)例1-55/实例48/lib/mail.jar!/" />
+      <root url="jar://D:/练习/java100实例/java实用编程100(1)例1-55/实例48/lib/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
